@@ -1,4 +1,4 @@
-[← Back to Home](/)
+[← Back to Home](../index.md)
 
 # Exercises Part 1
 Try typesetting the following examples as shown in the slides on Overleaf.
