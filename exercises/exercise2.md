@@ -40,3 +40,8 @@ Our contributions are threefold. To begin with, we concentrate our efforts on di
 
 \end{document}
 ```
+## Exercise 2.2
+
+Inserting image and bibliography.
+
+In the above article, insert the [figure](./upes.jpeg) and bibligoraphy file from the [bib](./bib-exercise.bib) file.
