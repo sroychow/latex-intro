@@ -1,0 +1,18 @@
+
+# An Interactive Introduction to LaTeX
+
+Welcome to **LaTeX Basics**! This site introduces:
+- Why LaTeX?
+- Getting Started
+- Typesetting Text
+- Typesetting Math
+- Packages
+- Exercises
+
+## Navigation
+- [Why LaTeX?](topics/why-latex.md)
+- [Getting Started](topics/getting-started.md)
+- [Typesetting Text](topics/typesetting-text.md)
+- [Typesetting Math](topics/typesetting-math.md)
+- [Packages](topics/packages.md)
+- [Exercises](topics/exercises.md)
