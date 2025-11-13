@@ -5,7 +5,7 @@ Try typesetting the following examples as shown in the slides on Overleaf.
 
 ## Exercise 2.1
 
-Starting from the snippet below, try to reproduce the article as you see [here](/exercises/exercise-part2-1.pdf).
+Starting from the snippet below, try to reproduce the article as you see [here](./exercise-part2-1.pdf).
 
 ```
 \documentclass{article}
